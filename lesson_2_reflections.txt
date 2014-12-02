@@ -1,0 +1,9 @@
+What happens when you initalize a repository?  Why do you need it?
+-->this creates a .git subdirectory in the project root.  This will contain 
+all the metadata (previous versions).  You need to do this to start the version
+control.
+
+How is the staging area different then the working directory and repository? The value?
+--> The staging area is sort of the middle man.  You can "add" files to the staging
+area one at a time. And then commit these.  The value is being able to pick and choose
+which files to commit.
