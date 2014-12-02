@@ -1,0 +1,25 @@
+Viewing two diff file this way was okay.  Little confusing but it did narrow
+down the diff's.  Could be cumbersome with bigger files and more errors to
+sift through.
+
+Having access to changes or history in a file will allow you to go back and
+potentially different approaches.  In the long term it will help optimize
+your code.
+
+Pros of not automatically saving are you get decide what gets committed. Will
+not have too much cluttering if done right. Cons, if you forget to committ or 
+committ too little.
+
+Allowing repositories to save multiple files at once is good because they could be
+related.  Keeping track of multiple files and changes will make life much easier.
+
+Using commands like “git log” and “git diff” is very useful.  You can see all the previous versions and then compare them with the commit id’s…sweet.
+
+git checkout followed by the log id is good for looking at previous commits and setting
+it to the head.  You’ll be able to make daring changes to projects without the burden of wrecking the whole project.
+
+What do I want to use git for? …everything now!!!
+
+So, when you clone a repository from gitHub it goes to you computer.  The metadata is stored in
+a directory called .git.  It's hidden ls -a will show it though. This is where all the history
+is.
