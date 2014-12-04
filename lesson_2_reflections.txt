@@ -7,3 +7,13 @@ How is the staging area different then the working directory and repository? The
 --> The staging area is sort of the middle man.  You can "add" files to the staging
 area one at a time. And then commit these.  The value is being able to pick and choose
 which files to commit.
+
+How can you use the staging area to make sure you only commit 1 logical change?
+--> using git diff --staged you can compare the staging area with the latest
+commit version.  Looking at the differences you can see the changes.
+
+What are situations where branches would be helpful in keeping history organized? How would
+branching help?
+-->  Situations like experimenting or eventually needing a slightly different version for varying people.
+Kepping this organized this way will make it easier to modifly and go back.
+
