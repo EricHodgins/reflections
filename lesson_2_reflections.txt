@@ -17,3 +17,10 @@ branching help?
 -->  Situations like experimenting or eventually needing a slightly different version for varying people.
 Kepping this organized this way will make it easier to modifly and go back.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+--> mergine two branches together makes a new whole repositoy on the master.  this preserves the master and
+other branch before the merger.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-->Pro's:  Automatic means you less time merging for you. Cons:  It might not  merge the way you want it to.
+
