@@ -1,1 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
+-->you would want to especially when you more than 1 person is working on a project.  having
+one place to update a project will keep everyone up to date with what is going on..cool.
