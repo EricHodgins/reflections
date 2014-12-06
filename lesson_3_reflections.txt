@@ -5,3 +5,7 @@ one place to update a project will keep everyone up to date with what is going o
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 -->Because being able to pull manually gives you the freedom to continue down a path experimentally without it being interrupted by
 other updates.  then when you're ready you can bring other branches if you want.
+
+Forking:
+This basically means cloning.  But cloning the repository to your GitHub account.  You can accomplish this other ways but
+this is the most efficient.
