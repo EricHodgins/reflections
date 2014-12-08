@@ -18,3 +18,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 -->you could use tools like dropbox, svn, good docs.  however these all have advantages and disadvantages.  you could just 
 use a simple shared drive on a network.  The learning curve on these would all be lower than GitHub.  But the control would be less.
 GitHub seems to have an advantage in the long run due to it's control.  the complexity is there.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+-->when you are experimenting on an idea or component of a project.
