@@ -13,3 +13,8 @@ this is the most efficient.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 -->this will let you branch off if you decide to fetch an updated version from GitHub.  Then you can continue down your
 local version and if you want to merge with the fetch update and yours you can.  This will be good for collaboration.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+-->you could use tools like dropbox, svn, good docs.  however these all have advantages and disadvantages.  you could just 
+use a simple shared drive on a network.  The learning curve on these would all be lower than GitHub.  But the control would be less.
+GitHub seems to have an advantage in the long run due to it's control.  the complexity is there.
